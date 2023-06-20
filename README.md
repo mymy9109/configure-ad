@@ -38,8 +38,8 @@ This picture shows where i created my two virtual machines one that was the main
 <p>
 <img src="https://i.imgur.com/hzzpQmS.png"/>
 </p>
-<p>
-Here is where installed and configued my active 
+<p>I
+Here where I installed and configued the active directory this was done by going into server manager and then going to roles and featured wizard.
 </p>
 <br />
 
